@@ -33,6 +33,7 @@ public class Main {
 
     public static void main(String[] args) {
 	    initialize();
+        System.out.println("\nWelcome! Please enter your commands below:\n");
 	    while (true) {
 	        String command = readCommand();
 	        parseCommand(command);
