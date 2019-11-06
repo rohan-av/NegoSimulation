@@ -12,7 +12,7 @@ For now, there are three possible things that are considered in this simulation:
 
 1. Download the .jar file from the [Releases](https://github.com/rohan-av/NegoSimulation/releases/tag/v1.0) section
 2. Ensure you have at least JDK 11 installed
-3. Navigate to the folder and run the JAR file using bash / command prompt (For bash, `java -jar NegoSimulation.jar`)
+3. Navigate to the folder and run the JAR file using bash / command prompt (`java -jar NegoSimulation.jar`)
 
 
 ## Input Formats
