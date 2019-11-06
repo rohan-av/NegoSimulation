@@ -8,6 +8,13 @@ For now, there are three possible things that are considered in this simulation:
 - Random Effects
 - Random Event / Action
 
+## How to Use
+
+1. Download the .jar file from the Releases section
+2. Ensure you have at least JDK 11 installed
+3. Navigate to the folder and run the JAR file using bash / command prompt (For bash, `java -jar NegoSimulation.jar`)
+
+
 ## Input Formats
 
 ### Effect Creation
